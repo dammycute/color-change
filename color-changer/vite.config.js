@@ -6,3 +6,5 @@ export default defineConfig({
   base: "/color-change/",
   plugins: [react()],
 })
+
+
